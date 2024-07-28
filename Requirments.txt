@@ -1,0 +1,5 @@
+torch
+whisper
+numpy
+tkinter
+ffmpeg-python
