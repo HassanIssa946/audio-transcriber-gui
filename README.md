@@ -2,7 +2,6 @@
 
 A user-friendly Tkinter interface for transcribing audio files using OpenAI's Whisper model. This application supports both GPU and CPU for processing, automatically selecting the GPU if available.
 
-Screenshot 2024-07-28 171429.png
 
 ## Features
 
